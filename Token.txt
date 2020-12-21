@@ -1,0 +1,4 @@
+techkomt20@gmail.com:
+console.developers.google.com
+Gmail_Token_UiPath-StudioX Client ID: 841495461121-fauf8e7fnbsjtukr4seig5gbiui1m1vf.apps.googleusercontent.com
+Gmail_Token_UiPath-StudioX Client Secret: kvyW4fvsuXVyHd7DtyxyG2Vr
