@@ -1,6 +1,6 @@
 {
-  "name": "UIA With StudioX_Project1",
-  "description": "Strong Password Generator",
+  "name": "UIA With StudioX_Project2",
+  "description": "RPA Challange Input Data",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.ComplexScenarios.Activities": "[1.1.3]",

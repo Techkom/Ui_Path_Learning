@@ -1,6 +1,6 @@
 {
-  "name": "UIA With StudioX_Project1",
-  "description": "Strong Password Generator",
+  "name": "WA With StudioX_Project2",
+  "description": "Put exchange data from excel to word",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.ComplexScenarios.Activities": "[1.1.3]",
